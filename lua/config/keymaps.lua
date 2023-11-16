@@ -12,6 +12,8 @@ keymap.set("n", "-", "<C-x>")
 -- Select all
 keymap.set("n", "<C-a>", "gg<S-v>G")
 
+-- File tree (netrw)
+keymap.set("n", "<leader>e", vim.cmd.Ex)
 -- Jumplist
 -- keymap.set("n", "<C-m>", "<C-i>", opts)
 
