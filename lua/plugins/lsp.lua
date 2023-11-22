@@ -12,6 +12,7 @@ return {
         "typescript-language-server",
         "css-lsp",
         "elm-language-server",
+        "rust-analyzer",
       })
     end,
   },
