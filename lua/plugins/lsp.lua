@@ -11,7 +11,6 @@ return {
         "tailwindcss-language-server",
         "typescript-language-server",
         "css-lsp",
-        "elm-language-server",
         "rust-analyzer",
         "angular-language-server",
       })
