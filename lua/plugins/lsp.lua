@@ -13,6 +13,8 @@ return {
         "css-lsp",
         "rust-analyzer",
         "angular-language-server",
+        "marksman",
+        "mdx-analyzer",
       })
     end,
   },
